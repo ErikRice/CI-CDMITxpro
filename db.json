@@ -220,6 +220,58 @@
       "latitude": "-10.6309",
       "longitude": "45.1206",
       "avatar": "https://cdn.fakercloud.com/avatars/RussellBishop_128.jpg"
+    },
+    {
+      "name": "Wilber Durgan",
+      "dob": "1978-8-12",
+      "email": "Wilber99@yahoo.com",
+      "username": "Wilber_Durgan",
+      "password": "gpRtawXPLuVhuZN",
+      "phone": "1-584-203-6895 x77553",
+      "streetaddress": "03634 Cale Views",
+      "citystatezip": "Othastad, WI 66573-4379",
+      "latitude": "-51.0396",
+      "longitude": "114.7200",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/VMilescu/128.jpg"
+    },
+    {
+      "name": "Alexandrea Harber",
+      "dob": "1953-1-5",
+      "email": "Alexandrea_Harber@gmail.com",
+      "username": "Alexandrea_Harber84",
+      "password": "n6_nG0uOeGhQc4m",
+      "phone": "(572) 756-1991 x3897",
+      "streetaddress": "09298 Demetrius Drives",
+      "citystatezip": "Lake Esta, NH 50443-6139",
+      "latitude": "-60.2539",
+      "longitude": "30.9859",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jacksonlatka/128.jpg"
+    },
+    {
+      "name": "Kennith Walsh Sr.",
+      "dob": "1975-6-22",
+      "email": "Kennith_Walsh76@hotmail.com",
+      "username": "Kennith_Walsh",
+      "password": "8bbpu3S7ScYCdeQ",
+      "phone": "(451) 748-4532 x8178",
+      "streetaddress": "1127 Goodwin Bypass",
+      "citystatezip": "Micahfort, WV 70838",
+      "latitude": "66.1261",
+      "longitude": "73.2003",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/dnirmal/128.jpg"
+    },
+    {
+      "name": "Andrew Reichert",
+      "dob": "1973-12-6",
+      "email": "Andrew70@hotmail.com",
+      "username": "Andrew_Reichert49",
+      "password": "KigsQb863t3FlpX",
+      "phone": "1-978-512-1403",
+      "streetaddress": "178 Koelpin Spring",
+      "citystatezip": "Port Kari, FL 74927-0434",
+      "latitude": "-84.4979",
+      "longitude": "21.8440",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ripplemdk/128.jpg"
     }
   ]
 }

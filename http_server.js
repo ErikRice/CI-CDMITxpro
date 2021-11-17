@@ -5,6 +5,7 @@ const fs      = require('lowdb/adapters/FileSync');
 const adapter = new fs('db.json');
 const db      = low(adapter);
 const cors    = require('cors');
+// const favicon = require('serve-favicon');
 
 // allow cross-origin resource sharing (CORS)
 app.use(cors());
@@ -14,10 +15,11 @@ var bodyParser = require('body-parser');
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
+
 // serve static files from public directory
 // -------------------------------------------
 app.use(express.static('public'));
-
+// app.use(favicon(__dirname, './public/favicon/favicon.ico'));
 // init the data store
 db.defaults({ users: []}).write();
 

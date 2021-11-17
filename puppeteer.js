@@ -6,7 +6,7 @@ const puppeteer = require('puppeteer');
             executablePath: '/usr/bin/chromium-browser'
           })
         const page = await browser.newPage();
-        await page.goto('http://localhost:3000/addUsers.html');
+        await page.goto('/addUsers.html');
         await page.waitForSelector('.btn btn-primary');
         await page.click('.btn btn-primary')
         return await page.screenshot({ path:'example.png' } )

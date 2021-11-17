@@ -24,6 +24,7 @@
     "lowdb": "^1.0.0",
     "nodemon": "^2.0.15",
     "puppeteer": "^5.5.0",
+    "serve-favicon": "^2.5.0",
     "supertest": "^5.0.0"
   },
   "devDependencies": {
